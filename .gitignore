@@ -1,0 +1,9 @@
+BankAppSource/
+*.zip
+*.rar
+bankAppData/
+bankAppData_original/
+venv/
+spectograms/
+spectrograms/
+**/*.pth
